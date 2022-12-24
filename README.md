@@ -2,10 +2,10 @@
   <a href="https://github.com/luizclaudiomoreira">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizclaudiomoreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
   </a>
-  <br />
+  <!--br />
   <a href="https://github.com/luizclaudiomoreira">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizclaudiomoreira&layout=compact&theme=dracula&hide_border=true"/>
-  </a>
+  </a-->
 </div>
 
 <br />
