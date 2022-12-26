@@ -12,8 +12,15 @@
   <br />
   
   <a href="https://github.com/luizclaudiomoreira" target="_blank">
+    <img src="https://wakatime.com/share/@luizclaudiomoreira/bf20e76d-fe41-4b4b-9ec5-e39aa828eed2.svg?style=for-the-badge" />
+  </a>
+
+  <br />
+  
+  <a href="https://github.com/luizclaudiomoreira" target="_blank">
     <img src="https://wakatime.com/badge/user/cd044a79-1157-4ba3-9c88-538a63966a8c.svg?style=for-the-badge" alt="Total time coded since Nov 27 2014" />
   </a>
+
 </div>
 
 <br />
