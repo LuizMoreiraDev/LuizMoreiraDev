@@ -8,6 +8,12 @@
   <a href="https://github.com/luizclaudiomoreira" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=luizclaudiomoreira&layout=compact&langs_count=10&theme=onedark&hide_border=true" />
   </a>
+  
+  <br />
+  
+  <a href="https://github.com/luizclaudiomoreira" target="_blank">
+    <img src="https://wakatime.com/badge/user/cd044a79-1157-4ba3-9c88-538a63966a8c.svg?style=for-the-badge" alt="Total time coded since Nov 27 2014" />
+  </a>
 </div>
 
 <br />
