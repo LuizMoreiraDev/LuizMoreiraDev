@@ -1,6 +1,12 @@
 <div align="center">
-  <a href="https://github.com/luizclaudiomoreira">
+  <a href="https://github.com/luizclaudiomoreira" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=luizclaudiomoreira&count_private=true&show_icons=true&theme=onedark&hide_border=true" />
+  </a>
+  
+  <br />
+  
+  <a href="https://github.com/luizclaudiomoreira" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=luizclaudiomoreira&layout=compact&langs_count=10&theme=onedark&hide_border=true" />
   </a>
 </div>
 
