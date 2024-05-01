@@ -27,16 +27,16 @@ Currently, I live in Portugal with my wife and kids but I'm from Brazil.
 
 
 # 📊 Coding Stats:
-![](https://wakatime.com/share/@luizclaudiomoreira/bf20e76d-fe41-4b4b-9ec5-e39aa828eed2.svg)
+![](https://wakatime.com/share/@LuizMoreiraDev/bf20e76d-fe41-4b4b-9ec5-e39aa828eed2.svg)
 
-![](https://github-readme-stats.vercel.app/api?username=luizclaudiomoreira&theme=calm&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=LuizMoreiraDev&theme=calm&hide_border=true&include_all_commits=true&count_private=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=luizclaudiomoreira&theme=calm&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=LuizMoreiraDev&theme=calm&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=luizclaudiomoreira&theme=calm&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizMoreiraDev&theme=calm&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://wakatime.com/badge/user/cd044a79-1157-4ba3-9c88-538a63966a8c.svg)](https://luizclaudiomoreira.com/bio-git)
-[![](https://visitcount.itsvg.in/api?id=luizclaudiomoreira&icon=1&color=12)](https://luizclaudiomoreira.com/bio-git)
+[![](https://wakatime.com/badge/user/cd044a79-1157-4ba3-9c88-538a63966a8c.svg)](https://luizmoreira.dev/bio-git)
+[![](https://visitcount.itsvg.in/api?id=LuizMoreiraDev&icon=1&color=12)](https://luizmoreira.dev/bio-git)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
