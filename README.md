@@ -8,9 +8,9 @@ Currently, I live in Portugal with my wife and kids but I'm from Brazil.
 
 
 ## 🌐 Socials:
-[![YouTube](https://img.shields.io/badge/YouTube-%23CD201F.svg?logo=YouTube&logoColor=white&style=for-the-badge)](https://youtube.com/c/LuizClaudioMoreira)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge)](https://twitter.com/luizclaudiom)
-[![Instagram](https://img.shields.io/badge/Instagram-%238134AF.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/luizclaudiomoreira)
+[![YouTube](https://img.shields.io/badge/YouTube-%23CD201F.svg?logo=YouTube&logoColor=white&style=for-the-badge)](https://youtube.com/@LuizMoreiraDev)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge)](https://twitter.com/LuizMoreiraDev)
+[![Instagram](https://img.shields.io/badge/Instagram-%238134AF.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/luizmoreira.dev)
 
 # 💻 Tech Stack:
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
