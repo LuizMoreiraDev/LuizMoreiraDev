@@ -53,9 +53,6 @@ When I'm not coding, you'll find me playing snooker 🎱 or brewing the perfect 
   <a href="https://wakatime.com/@LuizMoreiraDev">
     <img src="https://wakatime.com/badge/user/cd044a79-1157-4ba3-9c88-538a63966a8c.svg" alt="Wakatime">
   </a>
-  <a href="https://luizmoreira.dev">
-    <img src="https://visitcount.itsvg.in/api?id=LuizMoreiraDev&icon=1&color=12" alt="Profile Views">
-  </a>
 </p>
 
 <p align="center">
