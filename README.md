@@ -41,7 +41,7 @@ When I'm not coding, you'll find me playing snooker 🎱 or brewing the perfect 
 
 ## 🌐 Let's Connect
 
-[![Website](https://img.shields.io/badge/luizclaudiomoreira.com-%23000000.svg?logo=homeassistantcommunitystore&logoColor=white&style=for-the-badge)](https://luizclaudiomoreira.com)
+[![Website](https://img.shields.io/badge/luizclaudiomoreira.com-%231A365D.svg?logo=homeassistantcommunitystore&logoColor=white&style=for-the-badge)](https://luizclaudiomoreira.com)
 [![YouTube](https://img.shields.io/badge/YouTube-%23CD201F.svg?logo=YouTube&logoColor=white&style=for-the-badge)](https://www.youtube.com/@LuizClaudioMoreira)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge)](https://x.com/LuizClaudioM)
 [![Instagram](https://img.shields.io/badge/Instagram-%238134AF.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/luizclaudiomoreira)
