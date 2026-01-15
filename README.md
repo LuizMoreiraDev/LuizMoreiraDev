@@ -41,30 +41,11 @@ When I'm not coding, you'll find me playing snooker 🎱 or brewing the perfect 
 
 ## 🌐 Let's Connect
 
-[![Website](https://img.shields.io/badge/luizmoreira.dev-%23000000.svg?logo=googlechrome&logoColor=white&style=for-the-badge)](https://luizmoreira.dev)
+[![Website](https://img.shields.io/badge/luizclaudiomoreira.com-%23000000.svg?logo=homeassistantcommunitystore&logoColor=white&style=for-the-badge)](https://luizclaudiomoreira.com)
 [![YouTube](https://img.shields.io/badge/YouTube-%23CD201F.svg?logo=YouTube&logoColor=white&style=for-the-badge)](https://www.youtube.com/@LuizClaudioMoreira)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge)](https://x.com/LuizClaudioM)
 [![Instagram](https://img.shields.io/badge/Instagram-%238134AF.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/luizclaudiomoreira)
-[![Mastodon](https://img.shields.io/badge/Mastodon-%236364FF.svg?logo=mastodon&logoColor=white&style=for-the-badge)](https://ruby.social/@luizmoreira)
 [![ORCID](https://img.shields.io/badge/ORCID-%23A6CE39.svg?logo=orcid&logoColor=white&style=for-the-badge)](https://orcid.org/0009-0008-8661-3479)
-
----
-
-## 📊 Coding Stats
-
-![](https://wakatime.com/share/@LuizMoreiraDev/bf20e76d-fe41-4b4b-9ec5-e39aa828eed2.svg)
-
-<details>
-<summary>📈 GitHub Stats</summary>
-<br>
-
-![](https://github-readme-stats.vercel.app/api?username=LuizMoreiraDev&theme=calm&hide_border=true&include_all_commits=true&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=LuizMoreiraDev&theme=calm&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizMoreiraDev&theme=calm&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-</details>
 
 ---
 
